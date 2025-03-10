@@ -1,0 +1,23 @@
+.text-primary {
+  color: #373085 !important;
+}
+
+.bg-menu-theme .menu-inner > .menu-item.active > .menu-link {
+  color: #373085 !important;
+  background-color: #ffbb0099 !important;
+}
+
+.btn-primary {
+  background-color: #373085 !important;
+  border-color: #373085 !important;
+}
+
+.bg-menu-theme .menu-inner > .menu-item.active:before {
+  background: #ffbb00 !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .nav-link.active:hover,
+.nav-pills .nav-link.active:focus {
+  background-color: #ffbb00 !important;
+}
